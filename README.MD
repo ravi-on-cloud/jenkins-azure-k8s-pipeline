@@ -1,4 +1,4 @@
-# Spring PetClinic CI/CD on Azure (Docs-Only Repo)
+# Spring PetClinic CI/CD on Azure 
 
 This repository documents how I built an **end-to-end CI/CD pipeline** for the Spring PetClinic app using **Jenkins → SonarCloud → Docker → Trivy → Azure Container Registry (ACR) → Azure Kubernetes Service (AKS)**.
 
