@@ -2,7 +2,7 @@
 
 This repository documents how I built an **end-to-end CI/CD pipeline** for the Spring PetClinic app using **Jenkins → SonarCloud → Docker → Trivy → Azure Container Registry (ACR) → Azure Kubernetes Service (AKS)**.
 
-> ℹ️ **Source code is not included here** (this is a lightweight portfolio repo).  
+>  **Source code is not included here** (this is a lightweight portfolio repo).  
 > The pipeline was executed against a fork of the official project:  
 > https://github.com/spring-projects/spring-petclinic
 
